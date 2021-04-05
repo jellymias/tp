@@ -56,14 +56,17 @@ all the [features](#3-features) in the RemindMe app. You can also access the pro
 --------------------------------------------------------------------------------------------------------------------
 
 ## 1. Introduction
-RemindMe is designed for students from the School of Computing(SOC) in Nation University of Singapore(NUS) to manage school modules and 
-events meanwhile keep track of submission deadlines and friends' birthday. To better help the students with scheduling and visualization,
-it even provides a calendar view of all the events. RemindMe is optimized for students who prefer to work with
-a Command Line Interface(CLI) while still having the benefits of a Graphical User Interface(GUI). We believe the tech-savvy SOC students
-can reap more benefits from our RemindMe app as compared to other traditional general scheduling apps. What are you waiting for?
-Jump to [Section 2](#2-quick-start) to get started. Hope you enjoy our app.
- 
+Thank you for downloading RemindMe! We really appreciate that you chose to trust us to take care of your scheduling 
+needs! RemindMe aims to help School of Computing students manage their work, assignments, submissions and exams. We 
+to help you take back control of YOUR life.
 
+RemindMe visualises the tasks of our users using a combination of a list and a calendar, to help you plan your time
+the best way that works for you! 
+
+We also use a Command-Line Interface, so that all the fast-fingered SOC students can use RemindMe quickly and 
+comfortably. 
+
+Start scheduling a better work life with RemindMe [here](#2-quick-start)!
 
 --------------------------------------------------------------------------------------------------------------------
 
